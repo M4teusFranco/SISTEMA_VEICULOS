@@ -27,25 +27,36 @@ Inserção de Veículo Doméstico
 
 Inserção de Moto
 
-![image](https://github.com/user-attachments/assets/7180eccc-60e4-474c-91b0-bfcc1c4db359)
+![image](https://github.com/user-attachments/assets/abcf054c-3840-4956-858b-a4317efb2feb)
 ![image](https://github.com/user-attachments/assets/c8776f1a-ffda-4acd-8734-b8fba5c78666)
 
 
 
 Inserção de Caminhão
 
+![image](https://github.com/user-attachments/assets/e471a2c5-3e88-4cc5-9220-56cad07fd678)
+![image](https://github.com/user-attachments/assets/37644c70-d1ca-400a-bc38-3379e8c4854d)
+
 
 
 Inserção de Bicicleta
+
+![image](https://github.com/user-attachments/assets/7fc54228-c8d4-42bb-b987-0357848a6191)
+![image](https://github.com/user-attachments/assets/618c3bd7-8048-4996-b8c4-e50bfddcc114)
 
 
 
 Inserção de Skate
 
+![image](https://github.com/user-attachments/assets/1af3edca-2535-49f3-bac5-ac4241eed3c8)
+![image](https://github.com/user-attachments/assets/7d34b124-ce07-4711-bddf-d178fe8262a8)
+
+
 
 Sair
 
-![image](https://github.com/user-attachments/assets/5f018594-3f85-4e09-9cda-5f1dda1d3a9b)
+![image](https://github.com/user-attachments/assets/72686336-7652-45a6-bcd8-52c447006330)
+![image](https://github.com/user-attachments/assets/f0cfd28d-52be-49fe-a853-65883e02dfd6)
 
 
 
@@ -65,4 +76,4 @@ O código deve ser inicializado por uma IDE que aceite Java, como o Eclipse.
 
 ## ✒️ Autores
 
-* **Mateus Franco Bezerra** - *Trabalho Inicial* - CRUD conectado ao Banco de Dados
+* **Mateus Franco Bezerra** - *Trabalho Inicial* - Create conectado ao Banco de Dados
